@@ -1,1 +1,5 @@
 # bug
+
+THERE IS A BUG IN THIS WEBSITE. ABNORMAL CONFIG DETECTED
+
+[link](tagada)
